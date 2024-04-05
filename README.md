@@ -1,27 +1,19 @@
-<h3>Olá 👋  Meu nome é Mateus </h3>
+# 💫 About Me:
+💻 Um estudante de informática, apaixonado por tecnologia 👨‍💻
 
-<ul dir="auto">
-<li>💻 Um Estudante de informática, apaixonado por tecnologia 👨‍💻 </li>
-</ul>
+# 💻 Aprendendo no momento:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### Estudando no momento:
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-#### Aprendendo Banco de dados:
-
-![MYSQL](	https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-&nbsp;
+## 🌐 Sociais:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mateus-warmling-a375b12b2/) 
 
 
-## Contatos:
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MateusWarmling&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MateusWarmling&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusWarmling&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div> 
-<a href = "mailto:contato.rafaelalexandrino@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/mateus-warmling-a375b12b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-</div>&nbsp;&nbsp;
- 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+---
+[![](https://visitcount.itsvg.in/api?id=MateusWarmling&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
