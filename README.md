@@ -1,5 +1,7 @@
+<img align="right" width="270" height="250" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
+
 ###  Olá 👋  Meu nome é Mateus 👨‍💻:
-<img align="right" width="220" height="200" src="https://github.com/MateusWarmling/MateusWarmling/assets/165968282/a9f06fcf-205f-4f56-aef6-a4b4729f591f">
+
 
 > 💻 Um estudante de informática, apaixonado por tecnologia 
 
